@@ -1,6 +1,6 @@
 **Contact Our Merchant Team**
 
-* Mobile (Viber / Whatsapp): 9801165567, 9801165538
+* Mobile (Viber / Whatsapp): 9801856394 / 9801301162
 
 * Email: merchant@khalti.com
 
