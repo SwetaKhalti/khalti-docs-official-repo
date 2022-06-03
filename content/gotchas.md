@@ -45,7 +45,7 @@ If you get error response "Fee not found." while testing, check your fee and set
 
 - **Payment errors**
 
-If you get error response "Amount must be less than 1000." while testing, check you have complete all the contract process. If you are using live keys contact [merchant support](/#support) for further details.
+If you get error response "Amount must be less than 200." while testing, check you have complete all the contract process. If you are using live keys contact merchant support for further details.
 
 
 - **Frame Options and Clickjacking protection**
